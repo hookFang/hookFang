@@ -3,7 +3,7 @@
 👋 I am Edwin Christie, a Full Stack Developer :rocket: from Toronto, Canada 
 
 #### Little bit about me 
-- 🔭 I’m currently completing my course (Last Semester) at Gerogian College, Barrie, ON
+- 🎓 Completed my Computer Programming and Analysis course at Georgian College 
 - 🌱 I’m currently learning <b> IPFS integration with Node JS applications, Python, Docker - Deep Dive </b> 
 - 🌱 I’m currently working on <b> [File Share Project](https://www.datafileshare.com/) </b>
 - 📫 How to reach me: edwinchristie100@gmail.com OR [Visit my Portfolio](https://edwinchristie.me/)
